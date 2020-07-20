@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0525e62c-b72d-4b4f-83d0-4cd9224a525c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eweJBh897GxWqKwRkgHJP6RNiG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0525e62c-b72d-4b4f-83d0-4cd9224a525c" name="Default Changelist" comment="" />
+      <created>1595237007350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595237007350</updated>
+    </task>
+    <task id="LOCAL-00001" summary="demo">
+      <created>1595237089627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595237089627</updated>
+    </task>
+    <task id="LOCAL-00002" summary="demo">
+      <created>1595237285620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595237285620</updated>
+    </task>
+    <task id="LOCAL-00003" summary="demo">
+      <created>1595237440747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595237440747</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="67" key="CommitChangelistDialog2" timestamp="1595237438618">
+      <screen x="0" y="67" width="1366" height="661" />
+    </state>
+    <state x="0" y="67" key="CommitChangelistDialog2/0.67.1366.661@0.67.1366.661" timestamp="1595237438618" />
+    <state x="706" y="220" key="FileChooserDialogImpl" timestamp="1595237327325">
+      <screen x="0" y="67" width="1366" height="661" />
+    </state>
+    <state x="706" y="220" key="FileChooserDialogImpl/0.67.1366.661@0.67.1366.661" timestamp="1595237327325" />
+    <state x="0" y="67" key="SettingsEditor" timestamp="1595237235150">
+      <screen x="0" y="67" width="1366" height="661" />
+    </state>
+    <state x="0" y="67" key="SettingsEditor/0.67.1366.661@0.67.1366.661" timestamp="1595237235150" />
+    <state x="518" y="194" key="Vcs.Push.Dialog.v2" timestamp="1595237977472">
+      <screen x="0" y="67" width="1366" height="661" />
+    </state>
+    <state x="518" y="194" key="Vcs.Push.Dialog.v2/0.67.1366.661@0.67.1366.661" timestamp="1595237977472" />
+    <state x="684" y="329" key="git4idea.rebase.GitRebaseDialog" timestamp="1595237311864">
+      <screen x="0" y="67" width="1366" height="661" />
+    </state>
+    <state x="684" y="329" key="git4idea.rebase.GitRebaseDialog/0.67.1366.661@0.67.1366.661" timestamp="1595237311864" />
+  </component>
+</project>
